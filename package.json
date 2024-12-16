@@ -4,10 +4,6 @@
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "description": "A set of tools to export dataset from react to different formats.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/securedeveloper/react-data-export.git"
-  },
   "keywords": [
     "react-data-export",
     "react-dataset",
@@ -16,10 +12,6 @@
   ],
   "author": "Afzal Ahmad <securedeveloper@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/securedeveloper/react-data-export/issues"
-  },
-  "homepage": "https://github.com/securedeveloper/react-data-export#readme",
   "dependencies": {
     "file-saver": "^2.0.2",
     "tempa-xlsx": "^0.8.20"
